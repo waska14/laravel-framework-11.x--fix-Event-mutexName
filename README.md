@@ -1,3 +1,10 @@
+> 🗄️ **Project Archived**
+>
+> This project is no longer actively maintained.
+> It remains available for reference and existing integrations,
+> but no further updates, bug fixes, or new features are planned.
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
